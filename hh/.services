@@ -1,0 +1,4 @@
+services:
+  NASPathManager:
+    class: NASPathManager
+    module: nas

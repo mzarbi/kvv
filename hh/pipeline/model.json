@@ -1,0 +1,23 @@
+{
+  "pipeline_id": "",
+  "metadata": {
+    "project" : "",
+    "description" : "",
+    "maintainer" : "",
+    "version" : "",
+    "repository" : ""
+  },
+  "timestamp": "",
+  "status": "",
+  "stages": [
+    {
+      "name" : "",
+      "status": "",
+      "timestamp" : "",
+      "error": {},
+      "progress": 0
+    }
+  ],
+  "error": {},
+  "progress": 0
+}
